@@ -1,2 +1,2 @@
-# gdsc_study_session_g6 
+# GDSC_study_session_g6 
 This is Yeabsera Abebe's repository.
